@@ -29,3 +29,4 @@ To run the script, users need to install dependencies using pip install requests
 This project is useful for anyone interested in data visualization, weather analysis, or API integration. It demonstrates how to retrieve real-world data and present it in an understandable format using Python. The visualization makes it easy to identify trends and compare different weather conditions over a selected period. Future improvements could involve adding interactive charts using Plotly or creating an automated weather dashboard.
 
 ##OUTPUT
+![Image](https://github.com/user-attachments/assets/0e518d14-0a85-40bd-ada4-88ee16080884)
